@@ -47,7 +47,7 @@ Greetings to my fellow Technology Advocates and Specialists.
 | --------- |
 | ![image](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024/assets/29681063/03791f66-da5c-45d4-978c-d62bbed477c5) |
 
-| __DEMO TOPICS:-__ |
+| __APPLICATION DEMO:-__ |
 | --------- |
 | Duration of Demo = 2 Mins 47 Secs |
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DOo_BvAMOUE/0.jpg)](https://www.youtube.com/watch?v=DOo_BvAMOUE) |
