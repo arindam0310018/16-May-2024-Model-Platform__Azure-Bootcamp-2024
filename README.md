@@ -40,12 +40,12 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 | __EVENT ANNOUNCEMENT:-__ |
 | --------- |
-| https://www.azurebootcamp.ch/sessions/#axpodevops |
-| ![Bootcamp-3](https://github.com/arindam0310018/11-May-2023_Azure-Bootcamp-2023/assets/29681063/4c4afe95-59de-4136-8bf1-f7056ed41c21) |
+| https://www.azurebootcamp.ch/sessions/#modelplatform |
+| - |
 
 | __SPONSORS:-__ |
 | --------- |
-| ![Sponsors](https://github.com/arindam0310018/11-May-2023_Azure-Bootcamp-2023/assets/29681063/b3d77a63-bb4b-4164-886b-b3df30057909) |
+| ![image](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024/assets/29681063/03791f66-da5c-45d4-978c-d62bbed477c5) |
 
 
 __Hope You Enjoyed the Session!!!__
