@@ -41,7 +41,7 @@ Greetings to my fellow Technology Advocates and Specialists.
 | __EVENT ANNOUNCEMENT:-__ |
 | --------- |
 | https://www.azurebootcamp.ch/sessions/#modelplatform |
-| - |
+| ![Banner](https://github.com/arindam0310018/16-May-2024-Model-Platform__Azure-Bootcamp-2024/assets/29681063/74321da6-f40b-4f7f-bf42-7007095ad8ed) |
 
 | __SPONSORS:-__ |
 | --------- |
