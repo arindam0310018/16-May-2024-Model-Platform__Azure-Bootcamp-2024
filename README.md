@@ -13,13 +13,13 @@ Greetings to my fellow Technology Advocates and Specialists.
 | --------- |  --------- | --------- | --------- |
 | Arindam Mitra | Axpo | Cloud Services Lead | https://www.linkedin.com/in/arindam-mitra-28981095/ |
 | Anass Alhyar | Axpo | Senior Product Manager | https://www.linkedin.com/in/anass-alhyar-4ab02238/ |
-| Raj Subramanai | Founder member of Flumaion Ltd | https://www.linkedin.com/in/rajsubramani/ |
+| Raj Subramanai | Flumaion | Founder | https://www.linkedin.com/in/rajsubramani/ |
 
 | __Core Team Members__ |  __Organisation Name__ |  __Designation__ |  __Profile__ | 
 | --------- |  --------- | --------- | --------- |
 | Sandeep Kumar | Lumitec Technologies | Cloud & Kubernetes Specialist | https://www.linkedin.com/in/sandeep-kumar-60049b16/ |
 | Anand Arbone | Lumitec Technologies | Hybrid Cloud Infrastructure Specialist | https://www.linkedin.com/in/anand-arbone/ |
-| Carlos Halpin | Axpo |  | https://www.linkedin.com/in/carlos-r-halpin-ruiz-de-alda-0b6b63142/ |
+| Carlos Halpin | Axpo | Cloud & DevOps Specialist | https://www.linkedin.com/in/carlos-r-halpin-ruiz-de-alda-0b6b63142/ |
 
 
 | __SPEAKERS EXCERPT:-__ |
