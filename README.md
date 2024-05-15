@@ -49,9 +49,12 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 | __APPLICATION DEMO:-__ |
 | --------- |
+| 1. __Monet Architecture Demo__ |
 | Duration of Demo = 2 Mins 47 Secs |
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DOo_BvAMOUE/0.jpg)](https://www.youtube.com/watch?v=DOo_BvAMOUE) |
-
+| 2. __Monet UI Demo__ |
+| Duration of Demo = 1 Min 17 Secs |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XTEVRW3xVms/0.jpg)](https://www.youtube.com/watch?v=XTEVRW3xVms) |
 
 __Hope You Enjoyed the Session!!!__
 
