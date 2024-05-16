@@ -55,20 +55,15 @@ Greetings to my fellow Technology Advocates and Specialists.
 | 2. | The Challenges |
 | 3. | The Approach |
 | 4. | About Industry Standards |
-| 5. |  |
-| 6. |  |
-| 7. | Ideas in a complex world |
-| 8. | Analytics at Axpo |
-| 9. | Current Models: Facts and Figures |
-| 10. | Platform Design |
-| 11. | Azure Architecture |
-| 12. | Devops in Advanced Analytics |
-| 13. | Pipeline Templates |
-| 14. | Multiple Environment – Replace Token |
-| 15. | Devops SSH with Terraform Modules |
-| 16. | How we Onboard Usecase ? |
-| 17. | Demo Workflow |
-| 18. | Gratitude |
+| 5. | What makes it unique ? |
+| 6. | Team and Development Phases |
+| 7. | Devops in Model Platform |
+| 8. | Network Flow |
+| 9. | Platform Architecture  |
+| 10. | Use cases  |
+| 11. | Application Architecture |
+| 12. | Demo |
+| 13. | Gratitude |
 
 | __AZURE DEVOPS DEMO TOPICS:-__ |
 | --------- |
