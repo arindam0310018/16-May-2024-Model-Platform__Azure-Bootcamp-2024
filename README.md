@@ -51,12 +51,12 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 | __#__ | __TOPICS__ |
 | --------- | --------- |
-| 1. | Our Business Areas |
-| 2. | Trading and Sales  |
-| 3. | Portfolio  |
-| 4. | Why Advanced Analytics ? |
-| 5. | Make a Guess ? |
-| 6. | Physical power trading: Intraday |
+| 1. | Why MoNet? |
+| 2. | The Challenges |
+| 3. | The Approach |
+| 4. | About Industry Standards |
+| 5. |  |
+| 6. |  |
 | 7. | Ideas in a complex world |
 | 8. | Analytics at Axpo |
 | 9. | Current Models: Facts and Figures |
